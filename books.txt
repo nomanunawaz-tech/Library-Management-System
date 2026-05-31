@@ -1,0 +1,17 @@
+65764|Ancient Civilization|J.Adition|HISTORY|560|-1
+978128|Atlas of Continents|Michael Johnson|GEOGRAPHY|500|5
+43243|Atomic Habit|Jamic Clear|SOCIAL|800|-1
+978130|Chemistry Essentials|Marie Curie|SCIENCE|550|-1
+978127|Geography of the World|Susan Baker|GEOGRAPHY|300|-1
+978124|Islamic History for Beginners|Ahmed Ali|ISLAMIC|250|-1
+429822|Islamic Ideology|Dr.Irfan ul Haq|HISTORY|680|6
+32787|Justice: What's the Righ Thing to Do?|Michael J. Sandel:|SOCIAL|990|-1
+986547|Our Social Norms|Abdul Kaleem|SOCIAL|900|-1
+978129|Physics Fundamentals|Isaac Newton|SCIENCE|600|-1
+23154|Programing Fundamental|Sir kamran|SOCIAL|360|6
+978131|Social Psychology|David Myers|SOCIAL|350|-1
+978132|Sociology Today|Anthony Giddens|SOCIAL|400|0
+978123|The Seerah of Prophet Muhammad|Muhammad Al-Bukhari|ISLAMIC|350|-1
+978125|The History of Pakistan|S.M. Burke|HISTORY|400|-1
+43876|Two Nation Theory|Doctor Noman|SOCIAL|650|9
+978126|World War II Chronicles|John Keegan|HISTORY|450|-1
